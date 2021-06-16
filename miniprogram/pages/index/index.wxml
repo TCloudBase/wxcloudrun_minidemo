@@ -1,0 +1,1 @@
+<view class="show">WEB网站共访问 {{num}} 次</view>

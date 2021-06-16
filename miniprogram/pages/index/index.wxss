@@ -1,0 +1,18 @@
+page {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  background-color: #f5f5f5;
+}
+.show{
+  height: 200rpx;
+  width: 600rpx;
+  margin: 65% auto auto;
+  border-radius: 10px;
+  color: #4fae70;
+  background: #FFFFFF;
+  line-height: 200rpx;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 900;
+}
